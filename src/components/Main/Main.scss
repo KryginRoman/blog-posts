@@ -1,0 +1,10 @@
+.main {
+  height: 100%;
+}
+
+.posts {
+  &-filter {
+    display: flex;
+    margin-bottom: 40px;
+  }
+}
